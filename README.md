@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hi, I'm Umulwrah 👋<br><br>🎓 Computer Application Student | 💻 Aspiring Software Developer<br><br>* 🌱 Learning and exploring new technologies<br>* 🔨 Building projects to improve my skills<br>*  Thanks for visiting my profile! 😊
+# Hi, I'm Umulwrah 👋<br><br>🎓 Computer Application Student | 💻 Aspiring Software Developer<br><br>* 🌱 Learning and exploring new technologies<br>*   Thanks for visiting my profile! 😊
 
 
 # 💻 Tech Stack:
